@@ -13,4 +13,8 @@
  end.
 
  add new line at master branch again at 15:35 02-28.
+ add new line at dev branch again at 15:24 02-28.
+ end.
+
+ we can only fix the conflict by edit the file.
  end.
